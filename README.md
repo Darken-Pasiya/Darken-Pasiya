@@ -59,10 +59,12 @@ You can click the Preview link to take a look at your changes.
 <a p="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Bot group"></a>
 
 🤖Teligraph Bot🤖
+
 <a p="https://t.me/FnTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/Telegraph Bot-%808080.svg?&style=flat-square&logo=Telegraph Bot&logoColor=white" alt="Whatsapp"></a>
 
 
 🌍SL android official🌍
+
 <a p="https://t.me/SL_Android" target="_blank"><img src="https://img.shields.io/badge/Telegram group-%808080.svg?&style=flat-square&logo=Telegram group&logoColor=white" alt="Telegram group"></a>
 
    
