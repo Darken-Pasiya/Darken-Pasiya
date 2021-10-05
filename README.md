@@ -1,6 +1,6 @@
 # Hi I m Darken Pasiya&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-![My card name](https://cardivo.vercel.app/api?name=Darken%20-%20Pasiya&description=Hi,%20I m%20a%20simple%20Developer%20😗&image=https://telegra.ph/file/00fb2aa072be1aedc3c37.jpginstagram=iam_not_instagram&linkedin=iam_not_linkdin&github=Darken-Pasiya&twitter=@)
+![My card name](https://cardivo.vercel.app/api?name=Darken%20-%20Pasiya&description=Hi,%20I'm%20a%20simple%20Developer%20😗&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___Darken____Pasiya___&github=Darken_Pasiya&twitter=@)
 
 
 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hello, I m [Darken-Pasiya](https://github.com/Darken-Pasiya) simple plugin developer 😎.
 
-<img align="right" alt="GIF" height="125px" src="https://giphy.com/gifs/sunglasses-420-dancing-weed-leaf-TKJrx7cMMG6ltWMRsW/source.gif" />
+<img align="right" alt="GIF" height="480px" src="https://giphy.com/gifs/sunglasses-420-dancing-weed-leaf-TKJrx7cMMG6ltWMRsW/source.gif" />
 
 
 
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <a p="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Bot group"></a>
 
 🤖Teligraph Bot🤖
-<a p="https://t.me/FnTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegraph Bot&logoColor=white" alt="Whatsapp"></a>
+<a p="https://t.me/FnTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/Telegraph Bot-%808080.svg?&style=flat-square&logo=Telegraph Bot&logoColor=white" alt="Whatsapp"></a>
 
 
 🌍SL android official🌍
