@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 #### 📱 Contact Us Me 📱:
 
-<a p="https://wa.me/94782002997" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a p="https://wa.me/94782002997" target="http://wa.me/94782002997"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 <a p="https://github.com/Darken-Pasiya" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
 
