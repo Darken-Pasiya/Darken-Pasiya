@@ -39,7 +39,8 @@ You can click the Preview link to take a look at your changes.
 ----
 
 <img align="center" fit="fill" alt="GIF" src="https://telegra.ph/file/b9277fb80ef9ddf6b361e.gif" />
-----
+
+
 ![This is an image](https://telegra.ph/file/88b9b41192681d8cda0a1.mp4)
 
 <br><br>
