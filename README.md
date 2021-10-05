@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaweeshachamodk)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Darken-Pasiya)
 
 </details>
 
@@ -85,9 +85,9 @@ You can click the Preview link to take a look at your changes.
 
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/SubadraBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Darken-Pasiya?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=kaweeshachamodk&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
 
 </details>
 
