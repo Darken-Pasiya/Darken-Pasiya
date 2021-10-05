@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to contact me **wa.me/94782002997**
 ----
 
-<img align="center" fit="fill" alt="GIF" src="https://telegra.ph/file/5d9dda684782edc7e6b6c.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://telegra.ph/file/113b05ff5a450f45c6d22.gif" />
 ----
 
 <br><br>
