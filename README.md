@@ -13,32 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/wrip_t.gif" alt="Bt">
 
-
 </br>
 
 </br>
 
-- 📑 I m currently learning:
-
-- 👀 I’m interested in ...
-
-- 💞️ I’m looking to collaborate on ...
-
-- 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/kaweeshachamodk) -->
-
-- 🌱 I’m currently learning **New Things**
-
-- 👯 My Fun Fact is **Coffee & Friends**
-
-- 🤝 I’m looking for help with **Profession Developers**
-
-- 💬 Ask me about **all things**
-
-- 📫 How to contact me **wa.me/94782002997**
+### KNOW MORE ABOUT ME>>>>
+<p align="center"><a href="https://github.com/Darken-Pasiya"><img title="Darken Pasiya" src="https://github-readme-stats.vercel.app/api?username=Darken-Pasiya&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 ----
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/VfvZxT.gif" alt="Bt">
-
 
 <br><br>
 #### 📱 Contact Us Me 📱:
