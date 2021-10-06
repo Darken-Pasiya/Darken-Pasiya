@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hello, I m [Darken-Pasiya](https://github.com/Darken-Pasiya) simple plugin developer 😎.
 
-<p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/xiTkgI.gif" alt="Bt">
-
 
 
 </br>
@@ -38,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to contact me **wa.me/94782002997**
 ----
 
+<p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/VfvZxT.gif" alt="Bt">
 
 
 <br><br>
