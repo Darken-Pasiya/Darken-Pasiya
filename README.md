@@ -42,11 +42,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-Group-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 
 🌍Whatsapp Bot Group🌍
-<a href="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-Group-brightgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-Group-purple?style=for-the-badge&logo=whatsapp"></a>
 
 🤖Teligraph Bot🤖
 
-<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-red?style=for-the-badge&logo=Telegram"></a>
 
 
 🌍SL android official🌍
