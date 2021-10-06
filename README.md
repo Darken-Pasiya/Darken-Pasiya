@@ -9,7 +9,12 @@
 Darken-Pasiya/Darken-Pasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hello, I m [Darken-Pasiya](https://github.com/Darken-Pasiya) simple plugin developer 🛠😎.
+
+----
+align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄴🄻🄻🄾+,;𝗶+𝗮𝗺+𝕯𝖆𝖗𝖐𝖊𝖓+𝕻𝖆𝖘𝖎𝖞𝖆;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=300&height=50">
+</p>
+
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/wrip_t.gif" alt="Bt">
 
