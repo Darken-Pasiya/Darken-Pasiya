@@ -34,15 +34,15 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Github-Darken Pasiya-black?style=for-the-badge&logo=github"></a>
 
-<a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-blue?style=for-the-badge&logo=Teligram"></a>
+<a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-blue?style=for-the-badge&logo=Telegram"></a>
 
 #### 🕵️‍♂️ Groups 🕵️‍♂️:
 
 🌍Hackers In Sri Lanka🌍
-<a href="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 
 🌍Whatsapp Bot Group🌍
-<a href="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 
 🤖Teligraph Bot🤖
 
