@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 🤖Teligraph Bot🤖
 
-<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-lightred?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-brightred?style=for-the-badge&logo=Telegram"></a>
 
 
 🌍SL android official🌍
