@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hello, I m [Darken-Pasiya](https://github.com/Darken-Pasiya) simple plugin developer 😎.
 
-<p align="center"><img src="" alt="Bt">
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/wrip_t.gif" alt="Bt">
 
 
 </br>
