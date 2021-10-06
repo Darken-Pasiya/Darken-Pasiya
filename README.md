@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to contact me **wa.me/94782002997**
 ----
 
-<img align="center" fit="fill" alt="GIF" src="https://telegra.ph/file/b9277fb80ef9ddf6b361e.gif" />
+<p align="center" fit="fill" alt="GIF" src="https://github.com/Darken-Pasiya/Short/blob/main/xiTkgI.gif" />
 
 
 <br><br>
