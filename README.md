@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
 
 ----   
-<a href="https://github.com/Darken-Pasiya/Short"><img title="Link Shortner" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Short&theme=highcontrast"></a>
+<a href="https://github.com/Darken-Pasiya/Short"><img title="Short" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Short&theme=highcontrast"></a>
 
 
 ----
