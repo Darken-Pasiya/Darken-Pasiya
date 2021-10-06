@@ -46,12 +46,12 @@ You can click the Preview link to take a look at your changes.
 
 🤖Teligraph Bot🤖
 
-<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-red?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-darkred?style=for-the-badge&logo=Telegram"></a>
 
 
 🌍SL android official🌍
 
-<a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-darkblue?style=for-the-badge&logo=Telegram"></a>
 
    
 
