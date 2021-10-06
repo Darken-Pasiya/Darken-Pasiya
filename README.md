@@ -27,30 +27,31 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/VfvZxT.gif" alt="Bt">
 
 <br>
+
 #### 📱 Contact Us Me 📱:
 
-<a p="https://wa.me/94782002997" target="http://wa.me/94782002997"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/94782002997"><img title="YouTube" src="https://img.shields.io/badge/Whatsapp-Darken Pasiya-brightgreen?style=for-the-badge&logo=Whatsapp"></a>
 
-<a p="https://github.com/Darken-Pasiya" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
+<a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Github-Darken Pasiya-black?style=for-the-badge&logo=github"></a>
 
-<a p="https://t.me/DarkenPasiya" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Whatsapp"></a>
+<a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-brightblue?style=for-the-badge&logo=Teligram"></a>
 
 #### 🕵️‍♂️ Groups 🕵️‍♂️:
 
 🌍Hackers In Sri Lanka🌍
-<a p="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Whatsapp group"></a>
+<a href="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 🌍Whatsapp Bot Group🌍
-<a p="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Bot group"></a>
+<a href="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 🤖Teligraph Bot🤖
 
-<a p="https://t.me/FnTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/Telegraph Bot-%808080.svg?&style=flat-square&logo=Telegraph Bot&logoColor=white" alt="Whatsapp"></a>
+<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegraph bot"></a>
 
 
 🌍SL android official🌍
 
-<a p="https://t.me/SL_Android" target="_blank"><img src="https://img.shields.io/badge/Telegram group-%808080.svg?&style=flat-square&logo=Telegram group&logoColor=white" alt="Telegram group"></a>
+<a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
    
 
