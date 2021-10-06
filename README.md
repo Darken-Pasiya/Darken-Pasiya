@@ -20,11 +20,13 @@ You can click the Preview link to take a look at your changes.
 ### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/Darken-Pasiya"><img title="Darken Pasiya" src="https://github-readme-stats.vercel.app/api?username=Darken-Pasiya&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
+
 ----
+
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/VfvZxT.gif" alt="Bt">
 
-<br><br>
+<br>
 #### 📱 Contact Us Me 📱:
 
 <a p="https://wa.me/94782002997" target="http://wa.me/94782002997"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
