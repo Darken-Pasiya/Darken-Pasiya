@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄴🄻🄻🄾+,;𝗶+𝗮𝗺+𝕯𝖆𝖗𝖐𝖊𝖓+𝕻𝖆𝖘𝖎𝖞𝖆;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
 
-<p align="center"><a href="https://github.com/Darken-Pasiya/Files/blob/main/wrip_t.gif"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif"></a>
-</p>
+<p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/wrip_t.gif" alt="Bt">
 
 </br>
 
