@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-#### 📱 Contact Us Me 📱:
+## 📱 Contact Us Me 📱:
 
 <a href="https://wa.me/94782002997"><img title="YouTube" src="https://img.shields.io/badge/Whatsapp-Darken Pasiya-brightgreen?style=for-the-badge&logo=Whatsapp"></a>
 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-darkblue?style=for-the-badge&logo=Telegram"></a>
 
-#### 🕵️‍♂️ Groups 🕵️‍♂️:
+## 🕵️‍♂️ Groups 🕵️‍♂️:
 
 🌍Hackers In Sri Lanka🌍
 <a href="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-Group-brightgreen?style=for-the-badge&logo=whatsapp"></a>
