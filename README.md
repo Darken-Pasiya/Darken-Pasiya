@@ -1,4 +1,4 @@
-# Hi I m Darken Pasiya&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+# Welcome to Darken Pasiya Github Profile&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
 ![My card name](https://cardivo.vercel.app/api?name=Darken%20-%20Pasiya&description=Hi,%20I'm%20a%20simple%20Developer%20😗&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___Darken____Pasiya___&github=Darken_Pasiya&twitter=@)
 
@@ -9,7 +9,7 @@
 Darken-Pasiya/Darken-Pasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hello, I m [Darken-Pasiya](https://github.com/Darken-Pasiya) simple plugin developer 😎.
+# 👋 Hello, I m [Darken-Pasiya](https://github.com/Darken-Pasiya) simple plugin developer 🛠😎.
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Files/blob/main/wrip_t.gif" alt="Bt">
 
@@ -53,7 +53,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
 
-   
+----   
+<a href="https://github.com/Darken-Pasiya/Short"><img title="Link Shortner" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Short&theme=highcontrast"></a>
+
 
 ----
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
