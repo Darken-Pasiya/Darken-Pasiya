@@ -29,7 +29,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><a href="https://github.com/Darken-Pasiya"><img title="Darken Pasiya" src="https://github-readme-stats.vercel.app/api?username=Darken-Pasiya&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-----
+<p>
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/VfvZxT.gif" alt="Bt">
@@ -64,11 +65,13 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
 
-----   
+<p>
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 <a href="https://github.com/Darken-Pasiya/Short"><img title="Short" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Short&theme=highcontrast"></a>
 
 
-----
+<p>
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
