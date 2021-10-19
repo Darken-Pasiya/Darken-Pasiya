@@ -37,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📱 Contact Us Me 📱:
 
+<p><h3 align="center"><a href="http://wa.me/94782002997"><img src="PicsArt_04-10-02.10.09.png" width="40" height="40"></a><a href="https://github.com/Darken-Pasiya"><img src="Github.png" width="65" height="40"></a><a href="https://t.me/DarkenPasiya"><img src="PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
+
 <a href="https://wa.me/94782002997"><img title="YouTube" src="https://img.shields.io/badge/Whatsapp-Darken Pasiya-brightgreen?style=for-the-badge&logo=Whatsapp"></a>
 
 <a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Github-Darken Pasiya-black?style=for-the-badge&logo=github"></a>
