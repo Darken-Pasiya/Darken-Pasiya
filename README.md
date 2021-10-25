@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-darkblue?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/My-Github-black?style=for-the-badge&logo=github"(https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)></a>
+<a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen"></a>
 ![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
 
 
