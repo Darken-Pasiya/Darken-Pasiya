@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/Anonymous-Zpt/T-banner4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Darken-Pasiya?color=red&style=flat-square"></a>
 
-<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/D-Cam?color=blue&style=flat-square"></a>
+<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya?color=blue&style=flat-square"></a>
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
 
