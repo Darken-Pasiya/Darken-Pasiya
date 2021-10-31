@@ -45,6 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-darkblue?style=for-the-badge&logo=Telegram"></a>
 
+<p align="center"> <img src="https://img.shields.io/github/followers/john-kener.svg?style=social&label=Followers&maxAge=2592000">
+
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
 
 
