@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 📱 Contact Us Me 📱:
+## 📱 Contact Me 📱:
 
 <p><h3 align="center"><a href="http://wa.me/94782002997"><img src="PicsArt_04-10-02.10.09.png" width="40" height="40"></a><a href="https://github.com/Darken-Pasiya"><img src="git.png" width="60" height="60"></a><a href="https://t.me/DarkenPasiya"><img src="PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
 
