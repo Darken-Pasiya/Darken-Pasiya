@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄴🄻🄻🄾+,;𝗶+𝗮𝗺+𝕯𝖆𝖗𝖐𝖊𝖓+𝕻𝖆𝖘𝖎𝖞𝖆;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=ᕼᗴᒪᒪᗝ+,;I+ᗩᗰ+𝕯𝖆𝖗𝖐𝖊𝖓+𝕻𝖆𝖘𝖎𝖞𝖆;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
 </br>
 
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
 
 <p align="center"><img src="https://github.com/Darken-Pasiya/Short/blob/main/VfvZxT.gif" alt="Bt">
@@ -53,6 +53,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
+<p>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
+
 ## 🕵️‍♂️ Groups 🕵️‍♂️:
 
 🌍Hackers In Sri Lanka🌍
@@ -71,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
 
 <p>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
 <a href="https://github.com/Darken-Pasiya/Contact-Me"><img title="Contact-Me" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Contact-Me&theme=radical"></a>
 
@@ -88,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Darken-Pasiya/Whats-Hack"><img title="Whats Hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Whats-Hack&theme=radical"></a>
 
 <a href="https://github.com/Darken-Pasiya/D-Banner"><img title="D-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=D-Banner&theme=vision-friendly-dark"></a>
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
 <br><br>
 
