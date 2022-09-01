@@ -3,10 +3,6 @@
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
-![My card name](https://cardivo.vercel.app/api?name=Darken%20-%20Pasiya&description=Hi,%20I'm%20a%20simple%20Developer%20😗&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___Darken____Pasiya___&github=Darken_Pasiya&twitter=@)
-<p>
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
-
 <!---
 Darken-Pasiya/Darken-Pasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -76,15 +72,11 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
+<a href="https://github.com/Darken-Pasiya/D-YT"><img title="D-YT" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=D-YT&theme=highcontrast"></a>
+
 <a href="https://github.com/Darken-Pasiya/Contact-Me"><img title="Contact-Me" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Contact-Me&theme=radical"></a>
 
 <a href="https://github.com/Darken-Pasiya/Pro-Banner"><img title="Pro-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Pro-Banner&theme=vision-friendly-dark"></a>
-
-<a href="https://github.com/Darken-Pasiya/Short"><img title="Short" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Short&theme=highcontrast"></a>
-
-<a href="https://github.com/Darken-Pasiya/Plugin-Store"><img title="Plugin Store" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Plugin-Store&theme=radical"></a>
-
-<a href="https://github.com/Darken-Pasiya/Ravana-Store"><img title="Ravana Store" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Ravana-Store&theme=highcontrast"></a>
 
 <a href="https://github.com/Darken-Pasiya/D-Cam"><img title="D-Cam" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=D-Cam&theme=vision-friendly-dark"></a>
 
