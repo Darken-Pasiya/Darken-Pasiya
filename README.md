@@ -25,9 +25,6 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
-
-<p align="center"><img src="https://te.legra.ph/file/2dca8f5930825a8e22f7a.jpg" alt="Bt">
-
 <br>
 
 <p><h3 align="center"><a href="http://wa.me/94782002997"><img src="PicsArt_04-10-02.10.09.png" width="40" height="40"></a><a href="https://github.com/Darken-Pasiya"><img src="git.png" width="60" height="60"></a><a href="https://t.me/DarkenPasiya"><img src="PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
