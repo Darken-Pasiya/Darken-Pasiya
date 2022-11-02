@@ -47,23 +47,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
-## 🕵️‍♂️ Groups 🕵️‍♂️:
-
-🌍Hackers In Sri Lanka🌍
-<a href="https://chat.whatsapp.com/ImIRZ1htaKeKPYHf4bkukI"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-Group-brightgreen?style=for-the-badge&logo=whatsapp"></a>
-
-🌍Whatsapp Bot Group🌍
-<a href="https://chat.whatsapp.com/CJ0du8LoxXmIf05UjT6Lve"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-Group-purple?style=for-the-badge&logo=whatsapp"></a>
-
-🤖Teligraph Bot🤖
-
-<a href="https://t.me/FnTelegraphBot"><img title="Telegram" src="https://img.shields.io/badge/Telegraph Bot-orange?style=for-the-badge&logo=Telegram"></a>
-
-
-🌍SL android official🌍
-
-<a href="https://t.me/SL_Android"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
-
+![Pasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darken-Pasiya&show_icons=true&theme=radical)
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
