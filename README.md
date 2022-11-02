@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/Darken-Pasiya/Pro-Banner"><img title="Pro-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Pro-Banner&theme=vision-friendly-dark"></a>
 
-<a href="https://github.com/Darken-Pasiya/D-Cam"><img title="D-Cam" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=D-Cam&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Darken-Pasiya/D-Cam"><img title="D-Cam" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=D-Cam&theme=highcontrast"></a>
 
 <a href="https://github.com/Darken-Pasiya/Whats-Hack"><img title="Whats Hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Darken-Pasiya&repo=Whats-Hack&theme=radical"></a>
 
