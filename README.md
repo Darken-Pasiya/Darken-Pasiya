@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=𝙷𝚎𝚕𝚕𝚘+,;𝙸+𝚊𝚖+𝙳𝚊𝚛𝚔𝚎𝚗+𝙿𝚊𝚜𝚒𝚢𝚊;𝚂𝚒𝚖𝚙𝚕𝚎+𝚃𝚘𝚘𝚕𝚜+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=𝙷𝚎𝚕𝚕𝚘+,;𝙸+𝚊𝚖+𝙳𝚊𝚛𝚔𝚎𝚗+𝙿𝚊𝚜𝚒𝚢𝚊;𝚂𝚒𝚖𝚙𝚕𝚎+𝚃𝚘𝚘𝚕𝚜;𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
