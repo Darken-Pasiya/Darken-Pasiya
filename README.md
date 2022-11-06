@@ -99,5 +99,3 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
 
-<img align="center" fit="fill" alt="GIF" src="https://github.com/Darken-Pasiya/Files/blob/main/ezgif.com-video-to-gif%20(3).gif" />
-
