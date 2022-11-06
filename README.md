@@ -99,5 +99,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
 
-<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/d6lMxls3BIgL5KvfgW" />
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
