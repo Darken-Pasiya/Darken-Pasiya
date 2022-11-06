@@ -99,5 +99,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
 
-<img align="center" fit="fill" alt="GIF" src="https://www.canva.com/design/DAFPrkxOsms/NJvYSuVqFL65qfAiCZ9EbQ/watch?utm_content=DAFPrkxOsms&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/d6lMxls3BIgL5KvfgW" />
 
