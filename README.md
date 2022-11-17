@@ -51,11 +51,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
 
-<h3 align="left">Visitors</h3>
-<p align="center">
-<img src="https://count.caliphdev.my.id/get/@Darken-Pasiya?theme=rule34" alt="visitor.svg">
-</p>
-
 <br>
 <br>
 
