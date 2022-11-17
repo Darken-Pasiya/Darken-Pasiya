@@ -1,5 +1,15 @@
 # Welcome to Darken Pasiya Github Profile&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
+```bash
+(
+  {
+    "Name": "Darken Pasiya",
+    "Status": "Online",
+    "Country": "Sri Lanka 🇱🇰"
+  }
+)
+```
+
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
 
@@ -40,6 +50,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Anonymous-Zpt/T-banner4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Darken-Pasiya?color=red&style=flat-square"></a>
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
+
+<h3 align="left">Visitors</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Darken-Pasiya?theme=rule34" alt="visitor.svg">
+</p>
 
 <br>
 <br>
@@ -84,8 +99,6 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 </br>
-
-
 
 <p align="center">
 
