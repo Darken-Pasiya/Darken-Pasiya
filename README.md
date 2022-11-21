@@ -3,7 +3,7 @@
 ```bash
 (
   {
-    "Name": "Darken Pasiya",
+    "User": "Darken Pasiya",
     "Status": "Online",
     "Country": "Sri Lanka 🇱🇰"
   }
