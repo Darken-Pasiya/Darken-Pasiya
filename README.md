@@ -5,7 +5,7 @@
   {
     "User": "Darken Pasiya",
     "Status": "Online",
-    "Country": "Sri Lanka 🇱🇰"
+    "location": "Sri Lanka 🇱🇰"
   }
 )
 ```
