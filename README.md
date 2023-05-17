@@ -46,17 +46,17 @@ You can click the Preview link to take a look at your changes.
 
 <p><h3 align="center"><a href="http://wa.me/94782002997"><img src="PicsArt_04-10-02.10.09.png" width="40" height="40"></a><a href="https://github.com/Darken-Pasiya"><img src="git.png" width="60" height="60"></a><a href="https://t.me/DarkenPasiya"><img src="PicsArt_05-11-05.58.55.png" width="40" height="40"></a></p>
 
-<a href="https://wa.me/94763209104"><img title="YouTube" src="https://img.shields.io/badge/Whatsapp-Darken Pasiya-brightgreen?style=for-the-badge&logo=Whatsapp"></a>
+<a href="https://wa.me/94763209104"><img title="YouTube" src="https://img.shields.io/badge/Whatsapp-Darken Pasiya-brightgreen?style=flat&logo=Whatsapp"></a>
 
-<a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Github-Darken Pasiya-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Darken-Pasiya"><img title="YouTube" src="https://img.shields.io/badge/Github-Darken Pasiya-black?style=flat&logo=github"></a>
 
-<a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-darkblue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DarkenPasiya"><img title="YouTube" src="https://img.shields.io/badge/Teligram-Darken Pasiya-darkblue?style=flat&logo=Telegram"></a>
 
 <p align="center"> <img src="https://img.shields.io/github/followers/Darken-Pasiya.svg?style=social&label=Followers&maxAge=2592000">
 
-<a href="https://github.com/Anonymous-Zpt/T-banner4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Darken-Pasiya?color=red&style=flat-square"></a>
+<a href="https://github.com/Anonymous-Zpt/T-banner4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Darken-Pasiya?color=lightgray&style=plastic"></a>
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya&left_color=blueviolet&right_color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Darken-Pasiya&color=blueviolet&style=plastic)
 
 <br>
 <br>
